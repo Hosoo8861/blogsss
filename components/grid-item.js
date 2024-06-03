@@ -14,9 +14,9 @@ export default () => {
           />
           <div>
             <Card.Title className="font-weight-bold mb-1">
-              Амар Өсөхбаяр
+              Отгонмандал Хосбаяр
             </Card.Title>
-            <Card.Text className="card-date">2021 оны 3 сарын 2</Card.Text>
+            <Card.Text className="card-date">2024 оны 5 сарын 31</Card.Text>
           </div>
         </Card.Header>
         <div className="view overlay">
